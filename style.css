@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+    .face-container {
+      padding: 60px 0;
+      text-align: center;
+    }
+  
+    .face-container {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+    #face {
+      font-size: 500%;
+      
+    }
+  
+  }
